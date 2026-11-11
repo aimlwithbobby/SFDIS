@@ -269,11 +269,10 @@ inside the `charts/` folder and reference them here.
 
 ## 👨‍💻 Author
 
-**Sumit Purnapatre**
+**Bobby**
+AIML Engineering enthusiast
 
-Electronics & Computer Engineering (IoT Honours)
-
-Machine Learning • Data Science • IoT
+Machine Learning • Data Science 
 
 GitHub: https://github.com/YOUR_USERNAME
 
